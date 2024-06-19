@@ -1,0 +1,121 @@
+.top
+{
+    background-color: #151515;
+    color:white;
+   
+    font-size: larger;
+    font-family: "Playwrite IS", cursive;
+    padding: 0%;
+}
+body
+{
+    margin: 0;
+}
+
+.middle-container{
+    background-color: #A91D3A;
+    
+    color: white;
+    text-align: center;
+    font-size: medium;
+    font-family: "Playwrite IS", cursive;
+    padding:5px;
+}
+.bottom
+{
+    background-color:#C73659;
+    
+    text-align: center;
+    font-size: medium;
+    font-family: "Playwrite IS", cursive;
+    padding:5px;
+}
+.imgaga{
+    border-radius: 5cm;
+    
+}
+img:hover{
+    opacity: 50%;
+}
+.pl{
+    height: 200px;
+    width: 200px;
+}
+.plm{
+    height: 200px;
+    width: 200px;
+}
+.bottom-container{
+    padding-top: 5px;
+    padding-bottom: 5px;
+    background-color:#EEEEEE ;
+    color: #151515;
+    text-align: center;
+    font-size: medium;
+    font-family: "Playwrite IS", cursive;
+
+}
+.ty
+{
+    text-align: center;
+    position: relative;
+    left: 300px;;
+}
+.u{
+    
+    padding-left: 3cm;
+
+}
+.o{
+    position: absolute;
+    right: 2cm;
+    padding-right: 3cm;
+
+}
+.L{
+    text-align: center;
+    font-size: large;
+    position: relative;
+    left: 2.25cm;
+    color: white;
+
+}
+.P{
+    color: white;
+    text-align: center;
+    font-size: large;
+    position: relative;
+    left: 7.25cm;
+
+}
+.box{
+    border: 2px solid black;
+    height: 400px;
+    width: 23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 15px;
+    
+   
+}
+.bottom{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:#222f3d;
+    flex-wrap: wrap;
+    padding-bottom: 20px;
+}
+
+.img{
+    height: 300px;
+    width: 300px;
+    
+    background-size: cover;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+.boxcontent{
+    margin-left: 10px;
+    margin-right: 1rem;
+
+}
